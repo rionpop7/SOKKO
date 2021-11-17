@@ -15,11 +15,11 @@ D:/SOKKO_GIT/Check
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55621
+61994
 Successfully changed project path to: D:/SOKKO_GIT/Check
 D:/SOKKO_GIT/Check
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 22.72 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 23.50 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.10f1 (297d780c91bc)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
@@ -40,245 +40,57 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002074 seconds.
+Registered in 0.002100 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 23.44 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 23.58 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.930 seconds
+- Completed reload, in  0.959 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002072 seconds.
+Registered in 0.001919 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.799 seconds
+- Completed reload, in  0.822 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 64.7 MB.
 System memory in use after: 64.8 MB.
 
 Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1819.
-Total: 1.707400 ms (FindLiveObjects: 0.148700 ms CreateObjectMapping: 0.030300 ms MarkObjects: 1.456500 ms  DeleteObjects: 0.070700 ms)
+Total: 2.078900 ms (FindLiveObjects: 0.187300 ms CreateObjectMapping: 0.030900 ms MarkObjects: 1.773900 ms  DeleteObjects: 0.085200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Nira.fbx
-  artifactKey: Guid(62dbf450fa471774b95f612bd20ea5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nira.fbx using Guid(62dbf450fa471774b95f612bd20ea5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3e1a1c37b1ec83761c7eecd08df8027') in 0.189350 seconds
-  Import took 0.230046 seconds .
+  path: Assets/FallDown.fbx
+  artifactKey: Guid(0781b79691951a44cbcc7dfe76bc914e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallDown.fbx using Guid(0781b79691951a44cbcc7dfe76bc914e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f843c92398a7c4b3a27f936ec674fa45') in 0.246646 seconds
+  Import took 0.324860 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 16.530147 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.005263 seconds
-  Import took 0.008053 seconds .
+  Time since last request: 31.569279 seconds.
+  path: Assets/FallDown.fbx
+  artifactKey: Guid(0781b79691951a44cbcc7dfe76bc914e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallDown.fbx using Guid(0781b79691951a44cbcc7dfe76bc914e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a234a6b6ee9c8d6103a86bbfa3b54f6e') in 0.165001 seconds
+  Import took 0.182420 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.313643 seconds.
-  path: Assets/Black.mat
-  artifactKey: Guid(c8457c009feb3854bbd52768e44c4af3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Black.mat using Guid(c8457c009feb3854bbd52768e44c4af3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cd633f89f2726cc24b3c892546c44af') in 0.021376 seconds
-  Import took 0.023714 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 26.602596 seconds.
-  path: Assets/Skin_Colour.mat
-  artifactKey: Guid(f1f1c51b603818d45b086bb341057180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Skin_Colour.mat using Guid(f1f1c51b603818d45b086bb341057180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95fb80bb4eadef5d21281be8fb9118ee') in 0.014391 seconds
-  Import took 0.026762 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 477.385122 seconds.
-  path: Assets/EYE.mat
-  artifactKey: Guid(abb40cbf400243b4e8109e936c5ddf7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EYE.mat using Guid(abb40cbf400243b4e8109e936c5ddf7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f8c9c9fdeefd4b90897ffa6d950cc7b') in 0.012772 seconds
-  Import took 0.015924 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 77.391851 seconds.
-  path: Assets/目.psd
-  artifactKey: Guid(cc0264aad77ce334aa25be05061b5b06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/目.psd using Guid(cc0264aad77ce334aa25be05061b5b06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72dce993271e6ac1f858b14c67207e79') in 0.017635 seconds
-  Import took 0.036078 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.634749 seconds.
-  path: Assets/New Material.mat
-  artifactKey: Guid(2a61d6ac14969564394ae18b26cb6dc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Material.mat using Guid(2a61d6ac14969564394ae18b26cb6dc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a173625089f33acd29f3a2bb0d71b21') in 0.016145 seconds
-  Import took 0.018497 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 72.164066 seconds.
-  path: Assets/Nira
-  artifactKey: Guid(c8455fc2a14ad4a4db487b72d1000cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nira using Guid(c8455fc2a14ad4a4db487b72d1000cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30bcb14898d7fb823aa79870e30a5ae') in 0.001420 seconds
-  Import took 0.193916 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 128.590775 seconds.
-  path: Assets/Nira/Black.mat
-  artifactKey: Guid(c8457c009feb3854bbd52768e44c4af3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nira/Black.mat using Guid(c8457c009feb3854bbd52768e44c4af3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48001cc10e51a62762c4d45e28519eff') in 0.008753 seconds
-  Import took 0.020468 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000146 seconds.
-  path: Assets/Nira/EYE.mat
-  artifactKey: Guid(abb40cbf400243b4e8109e936c5ddf7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nira/EYE.mat using Guid(abb40cbf400243b4e8109e936c5ddf7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6faac530555c34f8234399440155ba9b') in 0.009976 seconds
-  Import took 0.026285 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000142 seconds.
-  path: Assets/Nira/Skin_Colour.mat
-  artifactKey: Guid(f1f1c51b603818d45b086bb341057180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nira/Skin_Colour.mat using Guid(f1f1c51b603818d45b086bb341057180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d619b548c4872e5a6b4964e605fa910') in 0.008794 seconds
-  Import took 0.011376 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/Nira/New Material.mat
-  artifactKey: Guid(2a61d6ac14969564394ae18b26cb6dc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nira/New Material.mat using Guid(2a61d6ac14969564394ae18b26cb6dc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29fbf0b9fa57e13976cab32c666777ab') in 0.009391 seconds
-  Import took 0.011616 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.223066 seconds.
-  path: Assets/Nira/White.mat
-  artifactKey: Guid(02ee07dc25bda1245b9624310719d77b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nira/White.mat using Guid(02ee07dc25bda1245b9624310719d77b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7562195f00c13bef2fc8f0b8747d2b52') in 0.017456 seconds
-  Import took 0.020350 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13945.437625 seconds.
-  path: Assets/Nira/Frog_fixed.fbx
-  artifactKey: Guid(e2a8aa7bfdc885645baaff95a9504204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Nira/Frog_fixed.fbx using Guid(e2a8aa7bfdc885645baaff95a9504204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863840beac2ed351fb1004e623fcc854') in 0.149311 seconds
-  Import took 0.165278 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 66060.816350 seconds.
-  path: Assets/Rigged_Boy.fbx
-  artifactKey: Guid(2db90d52ea5d56b4eb50583f6e195acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rigged_Boy.fbx using Guid(2db90d52ea5d56b4eb50583f6e195acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a861264fb51bf8b74fb14fab934224') in 0.234094 seconds
-  Import took 0.258306 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.091195 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.078 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 81.8 MB.
-System memory in use after: 81.9 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1867.
-Total: 2.447600 ms (FindLiveObjects: 0.186100 ms CreateObjectMapping: 0.032500 ms MarkObjects: 2.152800 ms  DeleteObjects: 0.075400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002104 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.809 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 81.8 MB.
-System memory in use after: 81.9 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1870.
-Total: 1.773900 ms (FindLiveObjects: 0.174100 ms CreateObjectMapping: 0.031000 ms MarkObjects: 1.520800 ms  DeleteObjects: 0.047500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001842 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.724 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 81.8 MB.
-System memory in use after: 81.9 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1873.
-Total: 1.669000 ms (FindLiveObjects: 0.151200 ms CreateObjectMapping: 0.031400 ms MarkObjects: 1.436600 ms  DeleteObjects: 0.048800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 655.239455 seconds.
-  path: Assets/Standing Idle.fbx
-  artifactKey: Guid(9a2e071d47574634995c40462e9d778d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standing Idle.fbx using Guid(9a2e071d47574634995c40462e9d778d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dfd6356f2155c5ac47a60d05362e763') in 0.175940 seconds
-  Import took 0.180325 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002064 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.729 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 81.9 MB.
-System memory in use after: 82.0 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1877.
-Total: 1.680400 ms (FindLiveObjects: 0.145400 ms CreateObjectMapping: 0.030900 ms MarkObjects: 1.455100 ms  DeleteObjects: 0.048200 ms)
+  Time since last request: 160.670731 seconds.
+  path: Assets/FallDown 1.fbx
+  artifactKey: Guid(654935de45eb91145a20c63cc0f895d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FallDown 1.fbx using Guid(654935de45eb91145a20c63cc0f895d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9486aa9a43a1668af40d2fe3395cbf') in 0.159629 seconds
+  Import took 0.181265 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
